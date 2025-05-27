@@ -41,11 +41,9 @@ This Habit Tracker app enables users to:
 
 ## 📦 APK Download
 
-📲 [Download Android APK v1.0.0](https://your-apk-link.com/habit-tracker.apk)
+📲 [Download Android APK v1.0.0](https://github.com/navonsanjuni/Habit_Tracker/releases/tag/v1.0.0)
 
-> _Replace with a valid shareable APK download link (e.g., Google Drive or Firebase)._
 
----
 
 ## 🔗 GitHub Repository
 
